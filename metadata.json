@@ -1,0 +1,5 @@
+{
+  "name": "Magic Cosplay Studio",
+  "description": "An AI-powered image editing application that allows users to modify images based on location, season, and time of day, inspired by the Souzou Pocket UI.",
+  "requestFramePermissions": []
+}
